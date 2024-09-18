@@ -41,6 +41,7 @@ Begin by cloning the repository to your local machine:
 git clone https://github.com/Muhammad0074/Pet-Classification-Project.git
 cd Pet-Classification-Project
 
+```
 ### 2. open app.py terminal
 
 - create virtual environment `pip install virtualenv venv`
