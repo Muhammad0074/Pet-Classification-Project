@@ -29,16 +29,23 @@ The project directory is organized as follows:
 - Other dependencies specified in `requirements.txt`
 
 
-## Install
+## Setup
 
 To get the Pet Image Classifier up and running on your local machine, follow these steps:
 
 ### 1. Clone the Repository
 
 Begin by cloning the repository to your local machine:
-
+ 
 ```bash
 git clone https://github.com/Muhammad0074/Pet-Classification-Project.git
 cd Pet-Classification-Project
+
+### 2. open app.py terminal
+
+- create virtual environment `pip install virtualenv venv`
+- activate venv  `venv/Scripts/activate`
+- install requirements  `pip install -r requirements.txt`
+- run application  `python app.py`
 
 
