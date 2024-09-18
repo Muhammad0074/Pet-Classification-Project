@@ -20,6 +20,15 @@ The project directory is organized as follows:
 - `static/JS/script.js`: JavaScript file managing file uploads, image previews, and AJAX requests.
 - `templates/index.html`: HTML template for the web page layout and structure.
 
+## Requirement
+
+- Python 3.11.2 
+- Flask
+- TensorFlow
+- Pillow
+- Other dependencies specified in `requirements.txt`
+
+
 ## Install
 
 To get the Pet Image Classifier up and running on your local machine, follow these steps:
