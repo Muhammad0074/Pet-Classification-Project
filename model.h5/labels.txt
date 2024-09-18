@@ -1,0 +1,6 @@
+cat
+dog
+hamster
+rabbit
+parrot
+turtle
