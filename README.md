@@ -20,7 +20,7 @@ The project directory is organized as follows:
 - `static/JS/script.js`: JavaScript file managing file uploads, image previews, and AJAX requests.
 - `templates/index.html`: HTML template for the web page layout and structure.
 
-## Getting Started
+## Install
 
 To get the Pet Image Classifier up and running on your local machine, follow these steps:
 
@@ -29,5 +29,7 @@ To get the Pet Image Classifier up and running on your local machine, follow the
 Begin by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Muhammad0074/Pet-Classification-Project.git
+cd Pet-Classification-Project
+
+
